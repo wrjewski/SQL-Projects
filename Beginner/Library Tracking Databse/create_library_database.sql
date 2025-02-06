@@ -1,0 +1,5 @@
+CREATE DATABASE LibraryDB;
+GO
+
+USE LibraryDB;
+GO
